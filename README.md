@@ -1,4 +1,18 @@
 # materiales-informatica-i
 Estos son los materiales de la asigntura  "Informatica I" del Grado en Estadística impartido en la Universidad Salamanca durante el curso 2017-18.
 
+
 Algunos de los materiales de este curso han sido inspirados por el curso [data-8](https://github.com/data-8/materials-fa17) de la Universidad de Berkeley. Los materiales aquí recogidos se comparten con la licencia [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/). 
+
+```@article{AJ515,
+	author = {Alejandro Benito and Rodrigo Santamaría and Roberto Therón},
+	title = {Evaluación de una metodología novel basada en cuadernos interactivos para el aprendizaje de la programación en Python},
+	journal = {Actas de las Jornadas sobre Enseñanza Universitaria de la Informática},
+	volume = {4},
+	number = {0},
+	year = {2019},
+	keywords = {Enseñanza de la programación; recursos para docencia y evaluación;  entornos interactivos de aprendizaje; JupyterHub},
+	abstract = {<div>La ense&ntilde;anza de la programaci&oacute;n a alumnos de nivel preuniversitario sin experiencia en pensamiento computacional supone un reto que necesita de m&eacute;todos did&aacute;cticos noveles especialmente concebidos para un p&uacute;blico que en los &uacute;ltimos a&ntilde;os ha modificado radicalmente la forma en la que recibe informaci&oacute;n. Esta contribuci&oacute;n describe la experiencia de adaptar y evaluar, en el contexto de una clase de alumnos de primer curso del Grado en Estad&iacute;stica (N=43), una metodolog&iacute;a y un ecosistema de herramientas interactivas orientadas al aprendizaje de la programaci&oacute;n y la ciencia de datos. Bajo este enfoque, la metodolog&iacute;a experimental concebida implementa t&eacute;cnicas como la programaci&oacute;n por pares y TDD (Test-Driven Development), lo cual, como se pudo comprobar a trav&eacute;s de las evaluaciones realizadas, tuvo un efecto positivo en el aprovechamiento del tiempo dedicado a la asignatura y en la satisfacci&oacute;n general percibida por el alumnado sobre la impartici&oacute;n de los contenidos de la gu&iacute;a docente. En l&iacute;nea con otras investigaciones actuales, los materiales did&aacute;cticos fueron puestos a disposici&oacute;n de la comunidad docente de manera abierta y gratuita, lo cual se espera contribuya a mejorar la metodolog&iacute;a en futuras experiencias.</div><div><br /></div><div><br /></div><div><strong>Abstract</strong></div><div><br /></div><div><br /></div><div>Teaching programming to undergrad students without previous experience in computational thinking poses a challenge that calls for novel didactic methods oriented explicitly towards this kind of audience. In our contribution, we describe the experience of adapting and evaluating a novel methodology and its associated ecosystem of tools in a classroom of 43 first-year students (N=43) of statistics. Following recommendations found in the literature, the experimental methodology implements pair-programming and TDD (Test-</div><div>Driven Development) techniques intending to improve both the teaching and learning experiences. From the evaluation, we could learn that this had a positive impact on the students&rsquo; performance and their general satisfaction with the course. Finally, the educational materials of this research were collected and put online under a Creative Commons license so that other scientific peers can replicate our work in other future didactic experiences.</div><div><br /></div>},
+	issn = {2531-0607},
+	url = {http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=view&path%5B%5D=515}```
+}
